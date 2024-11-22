@@ -1,0 +1,4 @@
+No | Last Name    | Initials    | Position      | Hire Year   | Salary
+--------------------------------------------------------
+ 1 | Ivanov       | I.I.        | Manager       | 2015        | 2500.5          
+2  | Petrov       | P.P.        | Developer     | 2018        | 3000            
